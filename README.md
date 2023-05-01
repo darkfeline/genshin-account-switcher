@@ -1,5 +1,7 @@
 # genshin-account-switcher
 
+Fork for personal auditing.
+
 Simple account switcher for Genshin Impact on Linux.
 
 ## Installation
