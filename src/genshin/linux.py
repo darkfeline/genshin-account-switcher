@@ -8,7 +8,7 @@ _GENSHIN_LOCATIONS = [
     # Anime Game Launcher
     "~/.local/share/anime-game-launcher/Genshin Impact",
     # Anime Game Launcher - Flatpak
-    "~/.var/app/moe.launcher.an-anime-game-launcher/data/anime-game-launcher/Genshin Impact",
+    "~/.var/app/moe.launcher.an-anime-game-launcher/data/anime-game-launcher/prefix",
 ]
 
 _USER_REG_PATH = "user.reg"
